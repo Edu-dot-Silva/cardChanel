@@ -9,3 +9,5 @@ Efeito de hover: Ao passar o mouse sobre o cartão, ele aumenta ligeiramente de 
 Tipografia: Diferentes fontes do Google Fonts foram importadas para dar ao texto uma aparência visualmente agradável.
 Detalhes de preço: O preço atual do perfume é destacado em verde, com o preço anterior exibido com um estilo de tachado em cinza.
 Botão "Adicionar ao Carrinho": O botão altera a opacidade e o estilo do cursor ao passar o mouse, aprimorando a sensação interativa.
+
+Desenvolvedor: Eduardo E. da Silva
